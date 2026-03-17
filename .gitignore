@@ -73,3 +73,6 @@ typings/
 
 # Where we store docker data by default
 data
+
+# Dolphin KDE
+.directory
